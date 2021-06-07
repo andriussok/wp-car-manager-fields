@@ -2,4 +2,4 @@
 
 A plugin that extends [WP Car Manager](https://www.wpcarmanager.com/)
 - add make-model metabox in single car admin
-- and allows to add new make-model in frontend car-submission form.
+- add new make-model in frontend car-submission form
